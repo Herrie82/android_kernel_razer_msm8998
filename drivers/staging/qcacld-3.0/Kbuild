@@ -1940,6 +1940,7 @@ EXTRA_CFLAGS += -Wno-bool-compare
 EXTRA_CFLAGS += -Wno-missing-attributes
 EXTRA_CFLAGS += -Wno-unused-value
 EXTRA_CFLAGS += -Wno-format
+EXTRA_CFLAGS += -Wno-stringop-overflow
 endif
 EXTRA_CFLAGS += -Wmissing-prototypes
 
